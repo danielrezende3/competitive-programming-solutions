@@ -1,1 +1,6 @@
 .vscode/
+
+# Rust support
+**/target/
+**/*.rs.bk
+Cargo.lock
